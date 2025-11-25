@@ -1,7 +1,12 @@
-# netbox-docker-dev
+# 📥 2. การติดตั้ง (Installation)
 
-# วิธีติดตั้ง + วิธีรัน + วิธีใช้งาน
+ต้องมี:
+- Docker Desktop **หรือ** Docker Engine  
+- Docker Compose v2+
 
+## 2.1 Clone โปรเจกต์
+
+```bash
 git clone https://github.com/jurnu66/netbox-docker-dev.git
 cd netbox-docker-dev
 docker compose pull

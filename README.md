@@ -2,10 +2,10 @@
 
 # วิธีติดตั้ง + วิธีรัน + วิธีใช้งาน
 
- git clone https://github.com/jurnu66/netbox-docker-dev.git
- cd netbox-docker-dev
- docker compose pull
- docker compose up
+git clone https://github.com/jurnu66/netbox-docker-dev.git
+cd netbox-docker-dev
+docker compose pull
+docker compose up
 
 # วิธีเข้าเว็บ
  http://127.0.0.1:8000
